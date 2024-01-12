@@ -1,0 +1,9 @@
+@inproceedings{REPO129,
+    author = "Huang, Yi-Hua and Cao, Yan-Pei and Lai, Yu-Kun and Shan, Ying and Gao, Lin",
+    booktitle = "ACM SIGGRAPH 2023 Conference Proceedings",
+    isbn = "9798400701597",
+    keywords = "Neural Radiance Fields, Texture Synthesis, Meso-structure Texture",
+    pages = "1--10",
+    title = "{NeRF-Texture: Texture Synthesis with Neural Radiance Fields}",
+    year = "2023"
+}
